@@ -43,7 +43,7 @@ if __name__ == '__main__':
     print 'Total lines %d' % cnt
 
     """
-    Count the distribution.
+    Count the distance.
     """
     distance = 0
     for i in range(0, 10):
